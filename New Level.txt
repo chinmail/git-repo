@@ -1,0 +1,2 @@
+print("New Level");
+print("New Life");
